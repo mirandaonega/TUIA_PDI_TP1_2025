@@ -37,9 +37,9 @@ ID,Nombre y Apellido,Edad,Mail,Legajo,Pregunta 1,Pregunta 2,Pregunta 3,Comentari
 
 ## Archivos del Proyecto
 
+- `Procesamiento de Imágenes I - Informe TP1.pdf`- Informe
 - `prob1.py` - Problema 1: Ecualización local
 - `prob2.py` - Problema 2: Validación de formularios
 - `formulario_*.png` - Imágenes de formularios a validar
 - `Imagen_con_detalles_escondidos.tif` - Imagen para ecualización
 - `data_formularios.csv` - Resultado de la validación (generado)
-- `Procesamiento de Imágenes I - Informe TP1.pdf`- Informe
