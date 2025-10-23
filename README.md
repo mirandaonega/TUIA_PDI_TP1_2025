@@ -42,3 +42,4 @@ ID,Nombre y Apellido,Edad,Mail,Legajo,Pregunta 1,Pregunta 2,Pregunta 3,Comentari
 - `formulario_*.png` - Imágenes de formularios a validar
 - `Imagen_con_detalles_escondidos.tif` - Imagen para ecualización
 - `data_formularios.csv` - Resultado de la validación (generado)
+- `Procesamiento de Imágenes I - Informe TP1.pdf`- Informe
